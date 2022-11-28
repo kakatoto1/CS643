@@ -27,7 +27,7 @@ This is a wine quality prediction ML model in Spark over AWS. The model is train
 
 
 ## Deploy and use
-Please check <a href="https://github.com/kakatoto1/CS643/blob/main/UserGuidance.pdf">user guidance</a> here.
+Please check <a href="https://github.com/kakatoto1/CS643/blob/master/UserGuidance.pdf">user guidance</a> here.
 
 
 <!-- LICENSE -->
