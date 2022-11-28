@@ -4,16 +4,16 @@
   <p align="center">
     This is a machine learning prediction tool basd on Spark over AWS.
     <br />
-    <a href="https://github.com/konaer/WineQualityPrediction/"><strong>Explore the source code »</strong></a>
+    <a href="https://github.com/kakatoto1/CS643/"><strong>Explore the source code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/konaer/WineQualityPrediction/issues">Report Bug</a>
+    <a href="https://github.com/kakatoto1/CS643/issues">Report Bug</a>
   </p>
 
 
 ## About the project
 
-This is a wine quality prediction ML model in Spark over AWS. The model is trained in parallel on multiple EC2 instances. Then the model is saved and loaded in an application that will perform wine quality prediction. The whole application is easy to deploy by a docker image built for users (please see <a href="https://github.com/konaer/WineQualityPrediction/blob/main/UserGuidance.pdf">user guide</a> for more info). The accuracy is 84.6% in average.   
+This is a wine quality prediction ML model in Spark over AWS. The model is trained in parallel on multiple EC2 instances. Then the model is saved and loaded in an application that will perform wine quality prediction. The whole application is easy to deploy by a docker image built for users (please see <a href="[https://github.com/konaer/WineQualityPrediction/blob/main/UserGuidance.pdf](https://github.com/kakatoto1/CS643/blob/master/UserGuidance.pdf)">user guide</a> for more info). The accuracy is 84.6% in average.   
 
 
 ## Tech Stack of the project
